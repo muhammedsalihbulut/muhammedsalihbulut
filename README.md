@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed Salih Bulut</h1>
 <h3 align="center">DevOps engineer</h3>
 
+I’m a passionate DevOps enthusiast with practical experience in Docker, Kubernetes, and
+automation workflows. I’ve completed professional and voluntary interns
 - 📝 I regularly write articles on [https://medium.com/@salihbulut417](https://medium.com/@salihbulut417)
 
 - 📫 How to reach me **muhammedsalihbulut95@gmail.com**
