@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Mobile Developer
+DevOps Engineer
 ----------------
 
 I’m a passionate DevOps enthusiast with practical experience in Docker, Kubernetes, and
